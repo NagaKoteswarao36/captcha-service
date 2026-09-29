@@ -3,7 +3,7 @@ package com.example.captcha.entity;
 import jakarta.persistence.*;
 
 import java.time.LocalDateTime;
-
+//captcha service 
 @Entity
 @Table(name = "captchas")
 public class Captcha {
